@@ -1,0 +1,55 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.signinpanel .form-control{
+    height: 40px;
+}
+.signinpanel .btn{
+    height: 40px;
+    font-size: 16px;
+}
+.hidden-folded{
+	font-size: 16px;
+	font-weight: bold;
+}
+.ibox-title{
+	font-size:16px;
+}
+.clear{
+	clear: both;
+}
+.oper-action{
+	padding: 10px 0;
+}
+.tips{
+	color: #ff0000;
+	line-height: 30px; 
+	display: block;
+}
+.table_buttom a{
+	color: #323839;
+	margin-right: 10px;
+}
+
+.auth-node {}
+
+.auth-node-top {
+    padding: 8px 20px;
+}
+
+.auth-node-parent {
+    margin-bottom: 20px;
+}
+
+.auth-node-child {
+    margin-left: 20px;
+}
+
+.auth-node-child .auth-node-child {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.css-checkbox{padding: 7px 0; font-weight: normal;}
